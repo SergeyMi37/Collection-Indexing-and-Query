@@ -2,10 +2,10 @@
 <Export generator="Cache" version="25">
   <Document name="collection-index-and-query.ZPM">
     <Module>
-      <Name>ollection-index-and-query</Name>
+      <Name>collection-index-and-query</Name>
       <Version>1.0.0</Version>
       <Description>How to get correct index for SQL query generator</Description>
-      <Keywords>SQL, COllection, Index</Keywords>
+      <Keywords>SQL, Collection, Index</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
        <Resource Name="rcc.IC.PKG"/>
