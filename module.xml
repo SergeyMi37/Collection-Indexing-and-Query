@@ -3,7 +3,7 @@
   <Document name="collection-index-and-query.ZPM">
     <Module>
       <Name>collection-index-and-query</Name>
-      <Version>1.0.1</Version>
+      <Version>1.0.2</Version>
       <Description>How to get correct index for SQL query generator</Description>
       <Keywords>SQL, Collection, Index</Keywords>
       <Packaging>module</Packaging>
